@@ -1,3 +1,5 @@
 .DS_Store
 .envrc
 .direnv
+.__pychache__
+__pychache__
